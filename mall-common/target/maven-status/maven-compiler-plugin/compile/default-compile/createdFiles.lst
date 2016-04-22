@@ -1,0 +1,5 @@
+com\lynn\dao\meta\ProductList.class
+com\lynn\dao\meta\Product.class
+com\lynn\dao\meta\User.class
+com\lynn\util\CopyUtil.class
+com\lynn\dao\meta\BuyList.class
